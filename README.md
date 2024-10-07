@@ -27,3 +27,11 @@ https://github.com/MartinYeung5/20240927_aptos
 在參與共學前，希望可以提升自己對Aptos的知識，最後是成功做到，有所收穫的。
 另外，在閱讀Aptos文檔時，會遇到舊的、存在錯誤的文檔，難免會影響到學習的情況。如果在官方網站有完整且最新的技術文檔就更好。
 
+* 頁面(主頁)
+![alt text](https://github.com/MartinYeung5/20240927_aptos/blob/main/aptos_frontend/public/1.png?raw=true)
+
+* 上傳新文件及查看用戶上傳紀錄
+![alt text](https://github.com/MartinYeung5/20240927_aptos/blob/main/aptos_frontend/public/2.png?raw=true)
+
+* 查看其他用戶要求自己簽名的紀錄
+![alt text](https://github.com/MartinYeung5/20240927_aptos/blob/main/aptos_frontend/public/3.png?raw=true)
