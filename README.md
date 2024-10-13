@@ -1,37 +1,27 @@
-Aptos Project: Aptos MY Verify
+## Aptos Project
+* AZK
 
-請填寫共學倉庫 Repo 中的個人 markdown 文件名:
-MartinYeung5
+* github link: https://github.com/MartinYeung5/
+* network: testnet
+* link: https://explorer.aptoslabs.com/account/0x86adc9e2857e9ece1a99f4de87fb41e33591562ee1f80e4351404e47bd8bc778/modules/code/ContractDatabase?network=testnet
+* contract address: 0x86adc9e2857e9ece1a99f4de87fb41e33591562ee1f80e4351404e47bd8bc778
 
-請填寫參與共學的 Github 賬戶:
-MartinYeung5
+Utilize ZKP + WEb3 + AI to protect digital contract.
 
-請填寫一個屬於您自己的 ETH 地址:
-0xc0758Afaa0467Fb9dA05D471f939beE3b7890E3e
+## About this project
+The project aims to provide a solution for user to verify the contract with ZKP and check the contract with AI audit.
+1. user can let third party to check the contract is valid or not in order to let third party belive your contract is valid.
+2. User and partner can ensure their contract is same and can't update without both confirmation.
+3. Utilize AI audit can help to check the potential risk in contract
+4. Utilize ZKP can prevent the exposure of sensitive information.
 
-請填寫一個屬於您自己的 APT 地址:
-0x0e1b7a678dbafa5d9c876413dccaac93c6d4790a8e6ebeb009a7f12f4defbf3b
+### Schedule/Milestone
+* Add multied25519
+* Optimize smart contract
+* Optimize UI desgin
+* Update ZK function implementation
+* bug fix
+* Add verification function
+* Status (Updating)
 
-請填寫項目名稱:
-Aptos MY Verify
-
-請填寫項目詳情:
-利用Aptos對數字合約進行驗證，配合零知識證明建立一個可靠且保障個人隱私的驗證平台
-
-請填寫項目 Github 與相關鏈接:
-https://github.com/MartinYeung5/20240927_aptos
-
-對共學、學習方式、目標、Aptos 文檔等建議:
-覺得共同的活動可以進一步推動學習，每天花時間去學習和整理筆記，也有助加深學習印象。
-同時也可以在短時間內提升自己的能力。此外，在學習過程中得到導師的指導，更讓我可以更快地理解和學習。
-在參與共學前，希望可以提升自己對Aptos的知識，最後是成功做到，有所收穫的。
-另外，在閱讀Aptos文檔時，會遇到舊的、存在錯誤的文檔，難免會影響到學習的情況。如果在官方網站有完整且最新的技術文檔就更好。
-
-* 頁面(主頁)
-![alt text](https://github.com/MartinYeung5/20240927_aptos/blob/main/aptos_frontend/public/1.png?raw=true)
-
-* 上傳新文件及查看用戶上傳紀錄
-![alt text](https://github.com/MartinYeung5/20240927_aptos/blob/main/aptos_frontend/public/2.png?raw=true)
-
-* 查看其他用戶要求自己簽名的紀錄
-![alt text](https://github.com/MartinYeung5/20240927_aptos/blob/main/aptos_frontend/public/3.png?raw=true)
+* Screencap
